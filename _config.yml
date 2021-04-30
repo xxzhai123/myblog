@@ -3,7 +3,7 @@ title: Seeyou Blog
 SEOTitle: Seeyou Blog
 header-img: img/home-bg.jpg
 email: lawrencezhaisl@gmail.com
-description: "关于程序与设计、黑客与画家 | Something ... Role position work | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+description: "关于程序与设计、黑客与画家、梦想 | Something ... Role position work | 这里是 Seeyou 的个人博客，与你一起发现更大的世界。"
 keyword: "Something ..."
 url: "https://www.seeyou.tk"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -30,7 +30,7 @@ paginate: 6   # posts showed in one page
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+timezone: CN
 
 
 
