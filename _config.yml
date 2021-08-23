@@ -27,7 +27,7 @@ RSS: true
 highlighter: rouge
 permalink: pretty
 paginate: 6   # posts showed in one page
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md","hiden"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 timezone: CN
