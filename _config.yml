@@ -59,10 +59,10 @@ kramdown:
 
 
 # Disqus settings
-# disqus_username: seeyou
+disqus_username: seeyoupro
 
 # Netease settings
-netease_comment: false
+netease_comment: true
 
 
 
