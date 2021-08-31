@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "project management software"
+title: "Project Management Software"
 subtitle: "项目管理软件"
 date: 2021-08-31
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: []
+tags: [PM, 项目管理, 软件]
 ---
 
 # 项目管理软件
