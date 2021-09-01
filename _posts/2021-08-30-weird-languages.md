@@ -6,10 +6,14 @@ date: 2021-08-30
 author: Seeyou
 header-img: "img/post-bg-kuaidi.jpg"
 tags:
-  - lisp
+  - Lisp
+  - Paul Graham
+  - Translation
 ---
 
 # 奇怪的语言
+
+> 翻译自：<http://www.paulgraham.com/weird.html>
 
 当人们根据经验谈到所有编程语言基本上都是等价的时，他们并不是在谈论语言，而是在谈论他们所做的编程类型。
 
@@ -23,5 +27,3 @@ tags:
 
 所以如果你想扩展你对编程的概念，一种方法是学习奇怪的语言。选择一种大多数程序员认为奇怪但中间用户很聪明的语言，然后关注这种语言与流行语言的交叉点之间的差异。有没有一种语言可能说不方便，但是你可以用这个奇怪的语言说清楚的情况？在学习如何说出以前无法说出的事情的过程中，您可能会学习如何思考以前无法思考的事情。
 
-> 原文链接：<http://www.paulgraham.com/weird.html>
-> 原文作者：Paul Graham
