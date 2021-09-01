@@ -4,7 +4,7 @@ title: "Weird Language"
 subtitle: "奇怪的语言"
 date: 2021-08-30
 author: Seeyou
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/post-bg-kuaidi.jpg"
 tags:
   - Lisp
   - Paul Graham
