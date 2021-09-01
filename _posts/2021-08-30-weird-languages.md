@@ -4,7 +4,7 @@ title: "Weird Language"
 subtitle: "奇怪的语言"
 date: 2021-08-30
 author: Seeyou
-header-img: "img/post-bg-kuaidi.jpg"
+header-img: "img/post-bg-unix-linux.jpg"
 tags:
   - Lisp
   - Paul Graham
@@ -13,6 +13,8 @@ tags:
 
 # 奇怪的语言
 
+> 作者：Paul Graham
+> 
 > 翻译自：<http://www.paulgraham.com/weird.html>
 
 当人们根据经验谈到所有编程语言基本上都是等价的时，他们并不是在谈论语言，而是在谈论他们所做的编程类型。

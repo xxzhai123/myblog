@@ -10,6 +10,8 @@ tags: [How, Paul Graham, Translation]
 
 # 如何努力工作
 
+> 作者：Paul Graham
+> 
 > 翻译自：<http://www.paulgraham.com/hwh.html>
 
 努力工作，无师自通。读过书的人都知道如何去做，没有读过书也知道。我还是12岁的孩子时，便相当努力地去工作。然而，当我问我自己，现在是否比读书时更了解什么是努力工作时，答案必然是肯定的。
