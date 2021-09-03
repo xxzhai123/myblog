@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Awesome Anaconda"
-subtitle: "Anaconda 指北"
+title: "Anaconda Quick Query"
+subtitle: "Anaconda 速查"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Anaconda, 指北]
+tags: [Anaconda, Quick Query]
 ---
-# anaconda
+# Anaconda Guideline
 
 ## 安装
 
@@ -61,15 +61,20 @@ conda config --add channels https://mirrors.bfsu.edu.cn/anaconda/pkgs/free
 
 显示安装的频道
 
-> `conda config --set show_channel_urls yes`
+```py
+conda config --set show_channel_urls yes
+```
 
 查看已经添加的 channels
 
-> `conda config --get channels`
+```py
+conda config --get channels
+```
 
 已添加的 channel 在哪里查看
-
-> `vim ~/.condarc`
+```py
+vim ~/.condarc
+```
 
 ```sh
 # 推荐北京外国语镜像

@@ -5,7 +5,7 @@ subtitle: "项目管理软件"
 date: 2021-08-31
 author: "Seeyou"
 header-img: "img/post-bg-alitrip.jpg"
-tags: [PM, 项目管理, 软件]
+tags: [PM, Software]
 ---
 
 # 项目管理软件

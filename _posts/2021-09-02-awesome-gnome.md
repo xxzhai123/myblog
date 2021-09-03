@@ -1,17 +1,16 @@
 ---
 layout: post
-title: "Awesome Gnome"
-subtitle: "Gnome 指北"
+title: "Gnome Quik Query"
+subtitle: "Gnome 速查"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Gnome, 指北]
+tags: [Gnome, Quik Query]
 ---
 
 # Awesome Gnome
 
 ## Preface
-
 ## Examples
 
 ### 如何在 Gnome Shell 中创建自定义应用程序启动器？
