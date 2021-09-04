@@ -41,15 +41,25 @@ a = np.array([('abc', 21, 50),('xyz', 18, 75)], dtype = student)
 结构化数据类型
 
 ‘b’ − boolean
+
 ‘i’ − (signed) integer
+
 ‘u’ − unsigned integer
+
 ‘f’ − floating-point
+
 ‘c’ − complex-floating point
+
 ‘m’ − timedelta
+
 ‘M’ − datetime
+
 ‘O’ − (Python) objects
+
 ‘S’, ‘a’ − (byte-)string
+
 ‘U’ − Unicode
+
 ‘V’ − raw data (void)
 
 ## 创建 NumPy 数组

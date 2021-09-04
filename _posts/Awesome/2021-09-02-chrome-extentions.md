@@ -19,7 +19,7 @@ tags: [Chrome Extentions, Awesome]
 - 功能强大且开源。
 - 支持 WebDAV 单词同步保存。
 - [pdf查词，忽略换行符，方便读文献。](https://github.com/crimx/ext-saladict/issues/1217)
-- 配合分屏，效果秒杀某云翻译器。
+- 配合分屏，效果比肩某云翻译器。
 
 [详细介绍](https://tingtalk.me/saladict/)
 

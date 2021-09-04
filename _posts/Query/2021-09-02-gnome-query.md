@@ -5,7 +5,7 @@ subtitle: "Gnome 速查"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Gnome, Quik Query]
+tags: [Gnome, Quick Query]
 ---
 
 # Awesome Gnome

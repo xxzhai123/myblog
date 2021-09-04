@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Anaconda Quick Query"
+title: "Anaconda Query"
 subtitle: "Anaconda 速查"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Anaconda, Quick Query]
+tags: [Anaconda, Query]
 ---
 # Anaconda Guideline
 

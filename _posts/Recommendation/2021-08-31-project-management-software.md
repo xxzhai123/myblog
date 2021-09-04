@@ -34,6 +34,8 @@ tags: [PM, Software]
 阿里巴巴旗下的团队协作工具。
 
 免费版的功能比 Asana 稍多，页面风格更加对国人友好。
+
+和钉钉融合较好
 ---
 
 [其他的可以看看这篇](https://www.v1tx.com/post/best-project-management-software/)
