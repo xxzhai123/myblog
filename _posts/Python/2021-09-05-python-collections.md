@@ -5,7 +5,7 @@ subtitle: "Python Collections 模块"
 date: 2021-09-05
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Python, 模块]
+tags: [Python, Module, Query]
 ---
 
 # Python Collections

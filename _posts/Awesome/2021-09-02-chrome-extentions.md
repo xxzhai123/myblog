@@ -5,7 +5,7 @@ subtitle: "浏览器插件"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Chrome Extentions, Awesome]
+tags: [Awesome]
 ---
 
 # Awesome Chrome Extentions

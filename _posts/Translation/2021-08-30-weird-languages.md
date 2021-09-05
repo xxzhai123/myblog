@@ -6,7 +6,6 @@ date: 2021-08-30
 author: Seeyou
 header-img: "img/post-bg-kuaidi.jpg"
 tags:
-  - Lisp
   - Paul Graham
   - Translation
 ---
