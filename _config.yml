@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: true
-#weibo_username:     huxpro
+weibo_username:     seeyoupro
 #zhihu_username:     huxpro
 #github_username:    huxpro
 twitter_username:   seeyoupro
