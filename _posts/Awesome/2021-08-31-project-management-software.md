@@ -5,11 +5,8 @@ subtitle: "项目管理软件"
 date: 2021-08-31
 author: "Seeyou"
 header-img: "img/post-bg-alitrip.jpg"
-tags: [PM, Software]
+tags: [Software, Awesome]
 ---
-
-# 项目管理软件
-
 
 本人想要使用项目管理软件来记录自己的工作内容，完成状态，方便自己总结和回顾。
 

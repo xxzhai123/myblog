@@ -7,9 +7,6 @@ author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
 tags: [Awesome]
 ---
-
-# Awesome Chrome Extentions
-
 ## 沙拉查词
 
 我愿称之为最强查词软件之一

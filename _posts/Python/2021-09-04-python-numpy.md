@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Numpy Quick Query"
-subtitle: "Numpy 速查"
+title: "Python Numpy"
+subtitle: "Python Numpy 模块"
 date: 2021-09-04
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Quick Query, Numpy]
+tags: [Query, Python, Module]
 ---
-# Numpy 速查
 
 ## NumPy 数据类型
 
@@ -276,3 +275,7 @@ numpy.linalg 模块
 | 5    | det()                | 计算矩阵的行列式   |
 | 6    | solve()              | 解线性矩阵方程     |
 | 7    | inv()                | 求矩阵的乘法逆矩阵 |
+
+## Reference
+
+[奇谷客教程](https://www.qikegu.com/docs/3393)

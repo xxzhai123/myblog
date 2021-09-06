@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Gnome Quik Query"
-subtitle: "Gnome 速查"
+title: "Gnome"
+subtitle: "图形桌面环境"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Gnome, Quick Query]
+tags: [Query， Ubuntu]
 ---
-
-# Awesome Gnome
 
 ## Preface
 ## Examples

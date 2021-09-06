@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Anaconda Query"
-subtitle: "Anaconda 速查"
+title: "Anaconda"
+subtitle: "Python 包管理器"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Anaconda, Query]
+tags: [Python, Query]
 ---
-# Anaconda Guideline
 
 ## 安装
 

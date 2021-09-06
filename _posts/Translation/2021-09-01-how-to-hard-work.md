@@ -8,8 +8,6 @@ header-img: "img/post-bg-unix-linux.jpg"
 tags: [How, Paul Graham, Translation]
 ---
 
-# 如何努力工作
-
 > 作者：Paul Graham
 > 
 > 翻译自：<http://www.paulgraham.com/hwh.html>

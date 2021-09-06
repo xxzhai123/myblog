@@ -8,8 +8,6 @@ header-img: "img/post-bg-2015.jpg"
 tags: [Python, Module, Query]
 ---
 
-# Python Collections
-
 ## Preface
 
 collections 是 python 的一个基础工具库
