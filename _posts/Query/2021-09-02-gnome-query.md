@@ -5,7 +5,7 @@ subtitle: "图形桌面环境"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Query， Ubuntu]
+tags: [Query, Ubuntu]
 ---
 
 ## Preface
