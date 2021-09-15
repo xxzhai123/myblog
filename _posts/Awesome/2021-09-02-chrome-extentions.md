@@ -5,7 +5,7 @@ subtitle: "浏览器插件"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-tags: [Awesome]
+tags: [Awesome, Extentions, Chrome]
 ---
 ## 沙拉查词
 
@@ -22,5 +22,8 @@ tags: [Awesome]
 
 [拓展下载](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=zh-CN)
 
-## MORE
+## 音乐解锁
 
+在浏览器中解锁加密的音乐文件
+
+[音乐解锁 Github 网址](https://github.com/ix64/unlock-music)

@@ -42,6 +42,6 @@ snap run --shell PACKAGE
 snap list
 #卸载应用
 snap remove PACKAGE
-snap enable PACKAGE #开机启动
+snap enable PACKAGE # 开机启动
 snap disable PACKAGE
 ```
