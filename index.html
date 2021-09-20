@@ -15,10 +15,10 @@ description: "「位卑不敢忘忧国」"
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {% if post.lang == 'en' %}
-            {{ post.content | strip_html | truncate:300 }}
+            {% if post.description %}
+            {{ post.description | strip_html | truncate:300}}
             {% else %}
-            {{ post.content | strip_html | truncate:200 }}
+            {{ post.content | strip_html | truncate:300 }}
             {% endif %}
         </div>
     </a>
