@@ -5,6 +5,7 @@ subtitle: "奇怪的语言"
 date: 2021-08-30
 author: Seeyou
 header-img: "img/post-bg-kuaidi.jpg"
+abstract: Lisp 是一门奇怪的语言，学习它的人奇怪吗？
 tags:
   - Paul Graham
   - Translation

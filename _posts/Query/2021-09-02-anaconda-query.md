@@ -5,6 +5,7 @@ subtitle: "Python 包管理器"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
+description: "Anaconda 的包管理完全教程"
 tags: [Python, Query]
 ---
 
