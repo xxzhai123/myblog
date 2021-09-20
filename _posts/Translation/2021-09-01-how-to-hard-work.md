@@ -5,7 +5,7 @@ subtitle: "如何努力工作"
 date: 2021-09-01
 author: "Seeyou"
 header-img: "img/post-bg-unix-linux.jpg"
-description: "大牛们都是工作狂吗？"
+abstract: "大牛们都是工作狂吗？"
 tags: [How, Paul Graham, Translation]
 ---
 

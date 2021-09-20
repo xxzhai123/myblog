@@ -5,11 +5,9 @@ subtitle: "图形桌面环境"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
+abstract: "GNOME是由志愿贡献者和受雇贡献者组成的GNOME计划开发，其最大的公司贡献者为红帽公司。它是一个为开发软件框架、基于这些框架来开发客户端软件及协调软件翻译和开发无障碍软件的项目。GNOME最初是GNU网络对象模型环境（GNU Network Object Model Environment）的缩写，但是已经被废弃了。是GNU计划的一部分，并且是由志愿者开发的。"
 tags: [Query, Ubuntu]
 ---
-
-## Preface
-## Examples
 
 ### 如何在 Gnome Shell 中创建自定义应用程序启动器？
 

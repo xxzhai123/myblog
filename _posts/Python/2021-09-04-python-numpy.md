@@ -5,6 +5,7 @@ subtitle: "Python Numpy 模块"
 date: 2021-09-04
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
+abstract: "NumPy(Numerical Python) 是 Python 语言的一个扩展程序库，支持大量的维度数组与矩阵运算，此外也针对数组运算提供大量的数学函数库。NumPy 的前身 Numeric 最早是由 Jim Hugunin 与其它协作者共同开发，2005 年，Travis Oliphant 在 Numeric 中结合了另一个同性质的程序库 Numarray 的特色，并加入了其它扩展而开发了 NumPy。NumPy 为开放源代码并且由许多协作者共同维护开发。"
 tags: [Query, Python, Module]
 ---
 

@@ -5,7 +5,7 @@ subtitle: "Python 包管理器"
 date: 2021-09-02
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
-description: "Anaconda 的包管理完全教程"
+abstract: "Anaconda是一个免费开源的Python和R语言的发行版本，用于计算科学（数据科学、机器学习、大数据处理和预测分析），Anaconda致力于简化软件包管理系统和部署。Anaconda的包使用软件包管理系统Conda进行管理。超过1200万人使用Anaconda发行版本，并且Anaconda拥有超过1400个适用于Windows、Linux和MacOS的数据科学软件包。"
 tags: [Python, Query]
 ---
 

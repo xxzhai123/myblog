@@ -5,6 +5,7 @@ subtitle: "项目管理软件"
 date: 2021-08-31
 author: "Seeyou"
 header-img: "img/post-bg-alitrip.jpg"
+abstract: "关于项目管理软件的推荐"
 tags: [Software, Awesome]
 ---
 

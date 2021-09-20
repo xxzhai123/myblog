@@ -5,6 +5,7 @@ subtitle: "Ubuntu 软件管理工具"
 date: 2021-09-08
 author: "Seeyou"
 header-img: "img/post-bg-2015.jpg"
+abstract: "snap 是 Ubuntu 软件管理工具之一，便捷，独立，安全。"
 tags: [Ubuntu, Query]
 ---
 ## 目录
